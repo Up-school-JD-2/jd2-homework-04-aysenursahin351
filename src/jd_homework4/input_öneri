@@ -1,0 +1,54 @@
+Do you want to create a user account? Y/N
+y
+Enter User Name
+halil
+Enter Email
+halil@can.com.tr
+Enter Password
+kjdjd
+Your account has been created
+What do you want to do
+Type the option number of the action you want to do
+Option1: Search song typing songname: 
+Option2: Search album typing albumname:
+Option3: Add album to basket :
+Option4: Buy album :
+ Exit press E :
+3
+You are currently here for basket/cart transactions 
+Fearless
+This Album is in stock...
+Fearless  Taylor Swift  4.10.2020 
+********Album's Song*********
+Fearless
+You're Not Sorry
+Love Story
+Breathe
+Album's Price is :350
+Successfully added Fearless basket
+3
+You are currently here for basket/cart transactions 
+Red
+This Album is not in stock...
+Sorry...
+This Album is in stock...
+Red  Taylor Swift  10/22/2012 
+********Album's Song*********
+We Are Never Ever Getting Back Together
+I Knew You Were Trouble
+Album's Price is :550
+Successfully added Red basket
+4
+Type the name of the album you want to buy
+Red
+Successfully bought Red
+All Albums in Basket
+Fearless 350
+Red 550
+Total Price   900
+1
+Type the name of the song you want to search
+You're Not Sorry
+This song is in this album :Red
+Album's Price is :550
+You're Not Sorry Fearless  Taylor Swift  4:22
